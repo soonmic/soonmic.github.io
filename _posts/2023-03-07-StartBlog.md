@@ -42,8 +42,8 @@ comments: true
 ## 이미지 
 
 > 이미지
-![Brain]({{site.url}}/images/2021-03-01-image1.png)
-![Cell]({{site.url}}/images/2021-03-01-image2.png)
+![Brain]({{site.url}}/images/IMG_7309.JPG)
+![Cell]({{site.url}}/images/IMG_7356.JPG)
 
 ## 더 자세한 깃헙 블로깅 팁
 - [테디노트](https://youtube.com/playlist?list=PLIMb_GuNnFwfMm3alTSOmDK4AnpdG7USY)
