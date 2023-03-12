@@ -41,7 +41,6 @@ comments: true
 
 ## 이미지 
 
-> 이미지
 ![Brain]({{site.url}}/images/IMG_7309.JPG)
 ![Cell]({{site.url}}/images/IMG_7356.JPG)
 
