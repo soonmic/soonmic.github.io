@@ -2,12 +2,14 @@
 layout: single
 title: "첫 깃헙블로그 포스팅"
 categories: blog001
-tags: [test, 블로그]
+---
+
+<!--tags: [test, 블로그]
 published: true
 toc: true
 toc_sticky: true
-toc_label: 목차
----
+toc_label: 목차 -->
+
 
 <!-- description: "test01"
 headline: "test01-headline"
