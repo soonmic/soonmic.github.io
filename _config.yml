@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "임선민"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "***멋진 ***"
+  bio              : #
   location         : "Somewhere"
   email            :
   links:
