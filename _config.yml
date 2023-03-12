@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "임선민"
+title                    : "일상"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "임선민"
-description              : "임선민 블로그"
+name                     : "선민이"
+description              : "선민이의  블로그"
 url                      : "https://soonmic.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "임선민"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am **멋있는** person."
+  bio              : "***멋진 ***"
   location         : "Somewhere"
   email            :
   links:
