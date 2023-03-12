@@ -2,6 +2,7 @@
 layout: single
 title: "첫 깃헙블로그 포스팅"
 categories: blog001
+tags: [test, 블로그]
 ---
 
 <!--tags: [test, 블로그]
