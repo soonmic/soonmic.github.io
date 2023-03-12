@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "일상"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "임"
+name                     : "임선민"
 description              : "선민이의  블로그"
 url                      : "https://soonmic.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
